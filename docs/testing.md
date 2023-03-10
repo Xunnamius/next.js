@@ -530,6 +530,7 @@ The Next.js community has created packages and articles you may find helpful:
 
 - [next-router-mock](https://github.com/scottrippey/next-router-mock) for Storybook.
 - [Test Preview Vercel Deploys with Cypress](https://glebbahmutov.com/blog/develop-preview-test/) by Gleb Bahmutov.
+- [next-test-api-route-handler](https://github.com/Xunnamius/next-test-api-route-handler) for lightning-fast unit testing of API routes and edge functions without spinning up a server.
 
 For more information on what to read next, we recommend:
 
